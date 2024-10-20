@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "astype",
+        "dataframe",
+        "figsize",
+        "geopandas",
+        "iloc",
+        "joblib",
+        "ndim",
+        "predictionmodel",
+        "xlabel",
+        "ylabel"
+    ],
+    "liveServer.settings.port": 5501
+}

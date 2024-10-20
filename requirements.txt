@@ -1,0 +1,8 @@
+Flask
+pandas
+scikit-learn # Required for the prediction model
+Flask
+joblib
+pandas
+numpy
+
